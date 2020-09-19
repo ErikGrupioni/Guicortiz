@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Olá, sou o Guilherme, Dev Guicortiz</h1>
-
-<img align='right' src='https://media1.tenor.com/images/841aeb9f113999616d097b414c539dfd/tenor.gif?itemid=5368357' width='200'>
+  
+<img align='center' src='https://media.tenor.com/images/6503d984715a73c0c5e1715789498361/tenor.gif' width='200'>
 
 **Estudande de programação** nas horas vagas, Atuando como Gerente operacional.  
 
